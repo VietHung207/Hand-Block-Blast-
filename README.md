@@ -2,7 +2,8 @@
 
 Một tựa game trí tuệ hiện đại lấy cảm hứng từ *1010!*, điều khiển hoàn toàn bằng cử chỉ tay thông qua Webcam. Dự án sử dụng Python kết hợp với các công nghệ Thị giác máy tính (Computer Vision) tiên tiến để mang lại trải nghiệm tương tác không chạm.
 
-![Demo Banner]([[https://via.placeholder.com/800x400?text=Hand+Block+Blast+Gameplay](https://github.com/user-attachments/assets/13410466-254f-4b98-85c0-2d6ce116a93d)])
+![Demo Banner]<img width="1094" height="763" alt="Screenshot 2025-12-30 152627" src="https://github.com/user-attachments/assets/6ffcbdd8-e44b-4b35-9420-c9d49e7b25c7" />
+
 
 ## ✨ Tính Năng Nổi Bật
 
@@ -82,6 +83,7 @@ Hand-Block-Blast/
 | 3 | **Đỗ Tiến Đạt** | Frontend Dev |
 | 4 | **Phạm Tuấn Dương** | Frontend Dev & Tester |
 | 5 | **Nguyễn Tuấn Huy** | Tester |
+
 
 
 
