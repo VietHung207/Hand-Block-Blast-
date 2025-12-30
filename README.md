@@ -70,3 +70,17 @@ Hand-Block-Blast/
 ├── boom.wav            # Âm thanh hiệu ứng
 ├── click.wav           # Âm thanh hiệu ứng
 └── README.md           # Tài liệu hướng dẫn
+
+👥 Tác Giả
+Dự án được phát triển bởi:
+
+VietHung207 (Nguyễn Việt Hùng)
+
+Bùi Ngọc Phương Nam
+
+Đỗ Tiến Đạt
+
+Phạm Tuấn Dương
+
+Nguyễn Tuấn Huy
+
