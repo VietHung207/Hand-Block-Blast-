@@ -70,17 +70,17 @@ Hand-Block-Blast/
 ├── boom.wav            # Âm thanh hiệu ứng
 ├── click.wav           # Âm thanh hiệu ứng
 └── README.md           # Tài liệu hướng dẫn
+```
 
-👥 Tác Giả
-Dự án được phát triển bởi:
+## 👥 Đội Ngũ Phát Triển
 
-VietHung207 (Nguyễn Việt Hùng)
+| STT | Thành Viên | Vai Trò (Role) |
+| :--: | :--- | :--- |
+| 1 | **Nguyễn Việt Hùng** | Leader / Backend Dev |
+| 2 | **Bùi Ngọc Phương Nam** | Backend Dev |
+| 3 | **Đỗ Tiến Đạt** | Frontend Dev |
+| 4 | **Phạm Tuấn Dương** | Frontend Dev & Tester |
+| 5 | **Nguyễn Tuấn Huy** | Tester |
 
-Bùi Ngọc Phương Nam
 
-Đỗ Tiến Đạt
-
-Phạm Tuấn Dương
-
-Nguyễn Tuấn Huy
 
